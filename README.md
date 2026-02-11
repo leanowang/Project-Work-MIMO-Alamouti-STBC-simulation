@@ -26,7 +26,7 @@ If RF playback/capture is used, typical setups include:
 
 ---
 
-## Techniques Used (High-level)
+## Techniques Used 
 - Root-Raised-Cosine (RRC) pulse shaping and matched filtering
 - PN-sequence based preamble detection via **normalized correlation**
 - **Carrier Frequency Offset (CFO)** estimation from preamble phase slope and symbol-domain compensation
