@@ -34,6 +34,12 @@ If RF playback/capture is used, typical setups include:
 - QPSK demodulation with **π/2 rotation search** to resolve phase ambiguity
 - Structured payload parsing: **16-bit length header + ASCII message**
 
----
+##Key TX parameters (default in code):
+- sampleRate = 25e6
+- symbolRate = 2.5e6
+- samplesPerSymbol = 10
+- rolloff = 0.35
+- filterSpan = 6
+- QPSK phase offset: pi/4
 
 
