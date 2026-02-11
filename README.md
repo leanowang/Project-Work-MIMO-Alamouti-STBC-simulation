@@ -15,7 +15,7 @@ If RF playback/capture is used, typical setups include:
 - Anritsu MS2720xA-0743  for capturing IQ samples (optional)
 - PC/laptop running MATLAB 2025.b for processing
 
-> Note: The decoding scripts operate on recorded baseband IQ data and do not require RF instruments to run.
+
 
 ---
 
